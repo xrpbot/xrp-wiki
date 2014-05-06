@@ -17,3 +17,4 @@ WIP/Working notes
 -----------------
 
 * [[Hobbyking BLDC Controller]]
+* [[BLDC stuff]]
