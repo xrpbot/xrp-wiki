@@ -8,6 +8,7 @@ Articles
 
 * [[Introduction to Rigid Body Dynamics|Rigid-Body-Dynamics]]
 * [[Acrobot]]
+* [[Quaternions]]
 
 ### Hardware
 
