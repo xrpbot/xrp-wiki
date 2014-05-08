@@ -15,6 +15,10 @@ Articles
 
 * [[The TUlip robot|TUlip]]
 
+### Resources
+
+* [[Resources]]
+
 WIP/Working notes
 -----------------
 
