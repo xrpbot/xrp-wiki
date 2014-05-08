@@ -1,3 +1,5 @@
+__Note:__ _this article is work in progress._
+
 Rigid Body Dynamics
 ===================
 
