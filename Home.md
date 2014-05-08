@@ -20,5 +20,4 @@ WIP/Working notes
 
 * [[Hobbyking BLDC Controller]]
 * [[BLDC stuff]]
-
 * [[The Special Euclidean group SE(3)|SE3]] (WIP article)
