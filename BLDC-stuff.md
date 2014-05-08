@@ -12,6 +12,7 @@ Hobbyking BLDC motor
 * Max. current: 90A
 * Max. voltage: 30V
 * Max. power: 2400W
+* Weight: 454g
 * Kv: 270 rpm/V = 28.3 rad/(s*V)
 * Km: 0.035 Nm/A (calculated)
 * Terminal-to-terminal resistance (DC, third terminal open): ~45mΩ
