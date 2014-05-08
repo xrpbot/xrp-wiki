@@ -13,6 +13,7 @@ Articles
 
 ### Hardware
 
+* [[Actuation]]
 * [[The TUlip robot|TUlip]]
 
 ### Resources
