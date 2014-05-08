@@ -3,6 +3,8 @@ Quaternions
 
 Let \\(q = (a,b,c,d) = a + b\mathbf{i} + c\mathbf{j} + d\mathbf{k} \in \mathbb{H}\\).
 
+* __Multiplication__: Quaternion multiplication is associative (\\(a(bc) = (ab)c\\)) and distributive (\\(a(b+c) = ab + ac\\)), but __not__ commutative (\\(ab \neq ba\\)).
+
 * __Multiplication table:__ From \\(\mathbf{i}^2 = \mathbf{j}^2 = \mathbf{k}^2 = \mathbf{i}\mathbf{j}\mathbf{k} = -1\\), the whole multiplication table follows:
 
     <table>
